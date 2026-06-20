@@ -20,3 +20,5 @@ speechbrain
 torchaudio
 torch
 
+numba
+llvmlite
